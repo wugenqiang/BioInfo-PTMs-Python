@@ -22,7 +22,7 @@
 
 <br>
 
-[GitHub](https://github.com/wugenqiang/NoteBook)
+[GitHub](https://github.com/wugenqiang/BioInfo-PTMs-Python.git)
 [开始阅读](/README.md)
 
 
