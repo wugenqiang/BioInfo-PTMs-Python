@@ -9,7 +9,7 @@
 git pull https://github.com/wugenqiang/BioInfo-PTMs-Python.git
 git add .
 git commit -m 'update:更新文件'
-git push -u https://github.com/wugenqiang/BioInfo-PTMs-Python.git master
+git push -u https://github.com/wugenqiang/BioInfo-PTMs-Python.git main
 
 ```
 
