@@ -3,4 +3,14 @@
 
 学习笔记阅读地址：https://notebook.js.org/
 
+更新文件仓库：
+
+```
+git pull https://github.com/wugenqiang/BioInfo-PTMs-Python.git
+git add .
+git commit -m 'update:更新文件'
+git push -u https://github.com/wugenqiang/BioInfo-PTMs-Python.git master
+
+```
+
 
