@@ -13,4 +13,5 @@ git push -u https://github.com/wugenqiang/BioInfo-PTMs-Python.git main
 
 ```
 
-
+文件打开地址：
+https://wugenqiang.github.io/BioInfo-PTMs-Python/ + 文件目录/ + 文件
